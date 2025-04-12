@@ -39,7 +39,7 @@ sadep/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sadep.git
+git clone https://github.com/Marcilesm/sadep.git
 cd sadep
 ```
 
